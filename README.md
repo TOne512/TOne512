@@ -1,6 +1,7 @@
 # Salut 👋 moi c'est Lionel
 
 **Développeur web full stack** · WordPress, PrestaShop, React/headless
+
 7 ans d'agence, et aujourd'hui je construis aussi mes propres projets.
 
 ## 🛠️ Stack
