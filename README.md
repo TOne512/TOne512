@@ -2,7 +2,7 @@
 
 **Développeur web full stack** · WordPress, PrestaShop, React/headless
 
-7 ans d'agence, et aujourd'hui je construis aussi mes propres projets.
+8 ans d'agence, et aujourd'hui je construis aussi mes propres projets.
 
 ## 🛠️ Stack
 
