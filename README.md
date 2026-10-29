@@ -21,12 +21,11 @@
 
 - **Sites & boutiques** : WordPress (ACF, WooCommerce), PrestaShop 8/9 (modules, overrides, migrations)
 - **Headless** : WordPress headless, Sanity, React
-- **SEO technique & audits** de sites WordPress / PrestaShop → [siteopsy.fr](https://siteopsy.fr)
+- **SEO technique**
 
 ## 📌 Projets
 
 - [festival-photos](https://github.com/TOne512/festival-photos)
-- [siteopsy.fr](https://siteopsy.fr) : audits de sites WordPress / PrestaShop
 
 ## 📫 Me contacter
 
